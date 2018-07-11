@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CBS-t3n
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: arvis
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CBS-t3n
+Created-By: Maven Integration for Eclipse
+
